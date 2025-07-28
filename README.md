@@ -37,13 +37,6 @@ I'm a full-stack web developer passionate about creating modern, scalable, and e
 
   <!-- WordPress -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-
-  <!-- Strapi (custom hosted) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Strapi-logo.png" alt="Strapi" width="40" height="40"/>
-
-  <!-- SEO (icons8) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SEO_icon.png/64px-SEO_icon.png" alt="SEO" width="40" height="40"/>
-
 </p>
 
 
