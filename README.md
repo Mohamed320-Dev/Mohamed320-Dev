@@ -42,7 +42,8 @@ I'm a full-stack web developer passionate about creating modern, scalable, and e
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Strapi-logo.png" alt="Strapi" width="40" height="40"/>
 
   <!-- SEO (icons8) -->
-  <img src="https://img.icons8.com/fluency/48/seo.png" alt="SEO" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SEO_icon.png/64px-SEO_icon.png" alt="SEO" width="40" height="40"/>
+
 </p>
 
 
