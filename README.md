@@ -14,7 +14,8 @@ I'm a full-stack web developer passionate about creating modern, scalable, and e
 
 <p align="center">
   <!-- Laravel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/FA5252/laravel.png" alt="Laravel" width="40" height="40"/>
+
 
   <!-- React.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
